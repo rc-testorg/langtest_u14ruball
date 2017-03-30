@@ -30,3 +30,4 @@ build:
     
   ci:
     - ruby -v
+    
