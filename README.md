@@ -1,1 +1,1 @@
-# sample_u14ruball.
+# sample_u14ruball
