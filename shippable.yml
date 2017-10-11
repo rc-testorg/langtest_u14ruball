@@ -31,6 +31,3 @@ build:
   ci:
     - ruby -v
    
-
-
-
